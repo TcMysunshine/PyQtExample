@@ -1,0 +1,8 @@
+QWebEngineView 下载文件
+QWidget一般用layout
+
+QMainwindow指明centraWidget,memubar,statusbar
+登录模板https://www.imooc.com/article/251100
+PyQt例子
+https://github.com/PyQt5/PyQt
+https://github.com/PyQt5/PyQt/blob/master/partner_625781186/6.QWebEngineView%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6/browser.py
