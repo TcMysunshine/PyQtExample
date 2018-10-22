@@ -23,11 +23,11 @@ class BrowserWidget(QWidget):
         #导航栏
         # navigation_bar = QToolBar('Navigation')
         # navigation_bar.setIconSize(QSize(16, 16))
-        self.navigate_bar = QToolBar("导航栏")
+        self.navigate_bar = QToolBar("Navigate")
         self.navigate_bar.addAction(QAction("Back", self.layout, triggered=self.browser.back))
-        self.navigate_bar.addAction(QAction("stop", self.layout, triggered=self.browser.stop))
-        self.navigate_bar.addAction(QAction("forward", self.layout, triggered=self.browser.forward))
-        self.navigate_bar.addAction(QAction("reload", self.layout, triggered=self.browser.reload))
+        self.navigate_bar.addAction(QAction("Stop", self.layout, triggered=self.browser.stop))
+        self.navigate_bar.addAction(QAction("Forward", self.layout, triggered=self.browser.forward))
+        self.navigate_bar.addAction(QAction("Reload", self.layout, triggered=self.browser.reload))
         #添加
         self.layout.addWidget(self.urlbar)
         self.layout.addWidget(self.navigate_bar)
