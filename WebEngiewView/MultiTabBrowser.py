@@ -4,10 +4,16 @@ from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 import sys
+from LoggerPyQt.Logger import loggerFile, loggerTimeRotate
+loggerFile = loggerFile("LoggerFile")
+loggerTimeRotate = loggerTimeRotate("LoggerTimeRotate")
+
+fileLogger = loggerFile.getLogger()
+timeRotateLogger = loggerTimeRotate.getLogger()
 
 
 class MultiTabBrowser(QtWidgets.QWidget):
-    def __init__(self):
+    def __init__(self, url):
         super(MultiTabBrowser, self).__init__()
         # 初始化tab页
         self.tabWidget = QtWidgets.QTabWidget(self)
@@ -20,7 +26,6 @@ class MultiTabBrowser(QtWidgets.QWidget):
         self.tabWidget.tabCloseRequested.connect(self.close_tab)
         self.tabWidget.setGeometry(0, 0, 900, 650)
         #浏览器
-        url = "http://www.baidu.com"
         self.browser = MyBrowser(self)
         self.browser.setUrl(QUrl(url))
         #网站标题改变时才会触发函数
@@ -30,6 +35,9 @@ class MultiTabBrowser(QtWidgets.QWidget):
     #创建浏览器Tab页
     def createWebView(self, webView):
         # self.tab = QtWidgets.QWidget()
+        #日志测试
+        # fileLogger.info("新建tab页")
+        # timeRotateLogger.info("新建tab页")
         self.webView = webView
         self.tabWidget.addTab(self.webView, "新标签页")
         self.tabWidget.setCurrentWidget(self.webView)
@@ -87,10 +95,11 @@ class MyBrowser(QWebEngineView):
            '''
         self.page().runJavaScript(js_string)
 
+
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     # mainWindow = QMainWindow()
-    bw = MultiTabBrowser()
+    bw = MultiTabBrowser("https://www.baidu.com/")
     bw.show()
     # mainWindow.show()
     sys.exit(app.exec_())

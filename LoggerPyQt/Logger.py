@@ -8,8 +8,8 @@ class loggerTimeRotate():
         self.level = level
         formatter = logging.Formatter(
             '%(asctime)s %(name)s %(levelname)s %(module)s.%(funcName)s Line:%(lineno)d:%(message)s')
-        self.handler = logging.handlers.RotatingFileHandler("timeRotateFile", 'M', 1, 0)
-        self.handler.suffix = "%Y%m%d-%H%M.log"
+        self.handler = logging.handlers.TimedRotatingFileHandler(filename="log/timeRotateFile.log", when='S', interval=1, backupCount=0)
+        self.handler.suffix = "%Y-%m-%d_%H-%M.log"
         self.handler.setFormatter(formatter)
 
     def getLogger(self):
@@ -25,7 +25,7 @@ class loggerFile():
         self.level = level
         formatter = logging.Formatter(
             '%(asctime)s %(name)s %(levelname)s Line:%(lineno)d:%(message)s')
-        self.handler = logging.FileHandler("filetest.log")
+        self.handler = logging.FileHandler("log/filetest.log")
         self.handler.setFormatter(formatter)
 
     def getLogger(self):

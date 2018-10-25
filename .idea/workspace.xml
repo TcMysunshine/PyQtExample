@@ -13,46 +13,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PyQtExample$tableView.coverage" NAME="tableView Coverage Results" MODIFIED="1540346170552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TableView" />
     <SUITE FILE_PATH="coverage/PyQtExample$MyWebEngineView3.coverage" NAME="MyWebEngineView3 Coverage Results" MODIFIED="1540193149132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebEngiewView" />
-    <SUITE FILE_PATH="coverage/PyQtExample$MultiTabBrowser.coverage" NAME="MultiTabBrowser Coverage Results" MODIFIED="1540193448701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebEngiewView" />
+    <SUITE FILE_PATH="coverage/PyQtExample$MultiTabBrowser.coverage" NAME="MultiTabBrowser Coverage Results" MODIFIED="1540342527918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebEngiewView" />
+    <SUITE FILE_PATH="coverage/PyQtExample$PageView__1_.coverage" NAME="PageView (1) Coverage Results" MODIFIED="1540428363025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pagination" />
     <SUITE FILE_PATH="coverage/PyQtExample$MyWebEngine2.coverage" NAME="MyWebEngine2 Coverage Results" MODIFIED="1540006232152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebEngiewView" />
     <SUITE FILE_PATH="coverage/PyQtExample$MyWebEngine.coverage" NAME="MyWebEngine Coverage Results" MODIFIED="1540189328742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebEngiewView" />
+    <SUITE FILE_PATH="coverage/PyQtExample$PageView.coverage" NAME="PageView Coverage Results" MODIFIED="1540370261391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QAxWidget" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1077292654">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="notebook" value="1" />
-          <entry key="py" value="10" />
+          <entry key="log" value="6" />
+          <entry key="notebook" value="2" />
+          <entry key="py" value="20" />
+          <entry key="timeRotateFile" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="10" />
+          <entry key="Log" value="6" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="32" />
           <entry key="notebook" value="101" />
-          <entry key="py" value="3776" />
+          <entry key="py" value="9643" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="133" />
-          <entry key="Python" value="3776" />
+          <entry key="Python" value="9643" />
         </counts>
       </usages-collector>
     </session>
@@ -60,90 +66,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LoggerPyQt/Logger.py">
+        <entry file="file://$PROJECT_DIR$/TableView/tableView.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="264">
+              <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LoggerPyQt/LoggerTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebEngiewView/MyWebEngine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#67#0" expanded="true" />
-                <marker date="1540189362890" expanded="true" signature="1557:1562" ph="..." />
-                <marker date="1540189362890" expanded="true" signature="1624:1633" ph="..." />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebEngiewView/MultiTabBrowser.py">
+        <entry file="file://$PROJECT_DIR$/Pagination/PageView.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="16" column="57" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="16" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#87#0" expanded="true" />
-                <marker date="1540193446715" expanded="true" signature="1040:1045" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebEngiewView/MyWebEngine2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-217">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="575">
+              <caret line="454" lean-forward="true" selection-start-line="454" selection-end-line="454" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebEngiewView/MyWebEngineView3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QAxWidget/ViewWidget.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebEngiewView/notebook">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -170,8 +111,11 @@
         <option value="$PROJECT_DIR$/WebEngiewView/WebBrowser.py" />
         <option value="$PROJECT_DIR$/WebEngiewView/MyWebEngine.py" />
         <option value="$PROJECT_DIR$/QAxWidget/ViewWidget.py" />
-        <option value="$PROJECT_DIR$/WebEngiewView/MultiTabBrowser.py" />
         <option value="$PROJECT_DIR$/WebEngiewView/MyWebEngineView3.py" />
+        <option value="$PROJECT_DIR$/LoggerPyQt/Logger.py" />
+        <option value="$PROJECT_DIR$/WebEngiewView/MultiTabBrowser.py" />
+        <option value="$PROJECT_DIR$/TableView/tableView.py" />
+        <option value="$PROJECT_DIR$/QAxWidget/PageView.py" />
       </list>
     </option>
   </component>
@@ -182,9 +126,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="122" />
+    <option name="x" value="52" />
     <option name="y" value="23" />
-    <option name="width" value="1237" />
+    <option name="width" value="1314" />
     <option name="height" value="819" />
   </component>
   <component name="ProjectView">
@@ -202,7 +146,22 @@
             <path>
               <item name="PyQtExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyQtExample" type="462c0819:PsiDirectoryNode" />
+              <item name="LoggerPyQt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQtExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQtExample" type="462c0819:PsiDirectoryNode" />
+              <item name="Pagination" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQtExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQtExample" type="462c0819:PsiDirectoryNode" />
               <item name="QAxWidget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyQtExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyQtExample" type="462c0819:PsiDirectoryNode" />
+              <item name="TableView" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PyQtExample" type="b2602c69:ProjectViewProjectNode" />
@@ -240,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MultiTabBrowser">
+  <component name="RunManager" selected="Python.PageView (1)">
     <configuration name="MultiTabBrowser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQtExample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -285,28 +244,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MyWebEngine2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyQtExample" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebEngiewView" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebEngiewView/MyWebEngine2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="MyWebEngineView3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyQtExample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -329,18 +266,86 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PageView (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyQtExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pagination" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pagination/PageView.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PageView" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyQtExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QAxWidget" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QAxWidget/PageView.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tableView" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyQtExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TableView" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TableView/tableView.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.tableView" />
+      <item itemvalue="Python.PageView" />
       <item itemvalue="Python.MyWebEngine" />
-      <item itemvalue="Python.MyWebEngine2" />
       <item itemvalue="Python.MyWebEngineView3" />
       <item itemvalue="Python.MultiTabBrowser" />
+      <item itemvalue="Python.PageView (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PageView (1)" />
         <item itemvalue="Python.MultiTabBrowser" />
         <item itemvalue="Python.MyWebEngineView3" />
         <item itemvalue="Python.MyWebEngine" />
-        <item itemvalue="Python.MyWebEngine2" />
       </list>
     </recent_temporary>
   </component>
@@ -358,16 +363,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="122" y="23" width="1237" height="819" extended-state="0" />
+    <frame x="52" y="23" width="1314" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23430963" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1918239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22833562" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4786795" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287483" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2503439" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30949107" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -399,85 +404,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LoggerPyQt/Logger.py">
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/WebBrowser.py" />
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/MyWebEngineView3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/timeRotateFile" />
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/timeRotateFile.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/filetest.log" />
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/log/timeRotateFile.log.2018-10-22_17-04.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoggerPyQt/LoggerTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/log/timeRotateFile.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/notebook">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAxWidget/ViewWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoggerPyQt/Logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LoggerPyQt/LoggerTest.py">
+    <entry file="file://$PROJECT_DIR$/WebEngiewView/MultiTabBrowser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebEngiewView/WebBrowser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="-83">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#87#0" expanded="true" />
+            <marker date="1540255763280" expanded="true" signature="1246:1251" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebEngiewView/MyWebEngine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#67#0" expanded="true" />
-            <marker date="1540189362890" expanded="true" signature="1557:1562" ph="..." />
-            <marker date="1540189362890" expanded="true" signature="1624:1633" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebEngiewView/notebook">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="195">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebEngiewView/MyWebEngine2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217">
+        <state relative-caret-position="15">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TableView/tableView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebEngiewView/MyWebEngineView3.py">
+    <entry file="file://$PROJECT_DIR$/QAxWidget/PageView.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+        <state relative-caret-position="192">
+          <caret line="381" column="28" selection-start-line="381" selection-start-column="28" selection-end-line="381" selection-end-column="28" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QAxWidget/ViewWidget.py">
+    <entry file="file://$PROJECT_DIR$/Pagination/PageView.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebEngiewView/MultiTabBrowser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="16" column="57" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="16" selection-end-column="57" />
+        <state relative-caret-position="575">
+          <caret line="454" lean-forward="true" selection-start-line="454" selection-end-line="454" />
           <folding>
-            <element signature="e#0#87#0" expanded="true" />
-            <marker date="1540193446715" expanded="true" signature="1040:1045" ph="..." />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
